@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Svelte, and FastAPI**
 
-- 💬 Ask me about **React, and Next**
+- 💬 Ask me about **ReactJS, and NextJS**
 
 - 📫 How to reach me **lhqui99@gmail.com**
 

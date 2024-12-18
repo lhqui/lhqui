@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qui</h1>
 <h3 align="center">🌟 Passionate Full-Stack Developer | Eager to Learn, Build, and Innovate 🚀</h3>
 
-- 🌱 I’m currently learning **Svelte, and FastAPI**
+- 🌱 I’m currently learning **Svelte, NestJS and FastAPI**
 
 - 💬 Ask me about **ReactJS, and NextJS**
 
